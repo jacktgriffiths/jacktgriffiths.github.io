@@ -12,4 +12,4 @@ redirect_from:
 
 🔬 My research interests are in Neuropharmacology, Biocomputing, and Machine Learning!
 
-📚 I'm currently working towards my Master's Thesis in the field of [**Neural Tissue Engineering**](https://www.keele.ac.uk/).
+📚 I'm currently working towards my Master's Thesis in the field of [**Neural Tissue Engineering**](hhttps://www.keele.ac.uk/research/ourresearch/alliedhealthprofessionsandpharmacy/pharmacyandbioengineering/neuraltissueengineering/).
