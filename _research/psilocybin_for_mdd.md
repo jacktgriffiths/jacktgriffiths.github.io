@@ -5,9 +5,9 @@ category: manuscripts
 permalink: /research/psilocybin_for_depression
 excerpt: '...psilocybin represents a promising alternative in the landscape of MDD treatment. Its ability to reduce depression scores rapidly, with limited short-term side effects, underscores its potential as a significant advance in psychiatric treatment.'
 date: 2024-10-02
-venue: 'Journal 1'
+venue: ##
 slidesurl: ##
-paperurl: 'http://academicpages.github.io/files/psilocybin_for_mdd.pdf'
+paperurl: 'http://jacktgriffiths.github.io/files/psilocybin_for_mdd.pdf'
 citation: ##
 ---
 
