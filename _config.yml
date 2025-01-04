@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jack Griffiths"
+title                    : "Jack's Homepage"
 title_separator          : "-"
 name                     : &name "Jack Griffiths"
 description              : &description "Student Researcher in Neuroscience at Keele University"
@@ -21,7 +21,7 @@ repository               : "jacktgriffiths/jacktgriffiths.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_pic.jpg"
   name             : "Jack Griffiths"
   pronouns         : # example: "she/her"  
   bio              : "Student Researcher in Neuroscience at Keele University, focussing on in vitro neural models."
