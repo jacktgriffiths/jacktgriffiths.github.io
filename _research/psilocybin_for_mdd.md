@@ -1,9 +1,9 @@
 ---
-title: "The Efficacy of Psilocybin in the Treatment of Major Depressive Discorder (MDD): A Systematic Review"
+title: "The Efficacy of Psilocybin in the Treatment of Major Depressive Disorder (MDD): A Systematic Review"
 collection: research
 category: manuscripts
 permalink: /research/psilocybin_for_depression
-excerpt: '...psilocybin represents a promising alternative in the landscape of MDD treatment. Its ability to reduce depression scores rapidly, with limited short-term side effects, underscores its potential as a significant advance in psychiatric treatment.'
+excerpt: '...psilocybin represents a promising alternative in the landscape of MDD treatment. Its ability to reduce depression scores rapidly, with limited short-term side effects, underscores its potential as a significant advancement in psychiatric treatment.'
 date: 2024-10-02
 venue: ##
 slidesurl: ##
